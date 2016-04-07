@@ -83,8 +83,8 @@
             <div data-search-js-value="Jestine Walczak">Jestine Walczak</div>
             <div data-search-js-value="Constance Lathem">Constance Lathem</div>
             <div data-search-js-value="Zandra Adkison">Zandra Adkison</div>
-            <div data-search-js-value="Janay Bourland ">Janay Bourland </div>
-            <div data-search-js-value="Rae Awad">Rae Awad </div>
+            <div data-search-js-value="Janay Bourland">Janay Bourland</div>
+            <div data-search-js-value="Rae Awad 500-Secret-Code">Rae Awad</div>
         </div>
       </div>
 
