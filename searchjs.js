@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function(){
-	searchJS = {};
+	var searchJS = {};
 	searchJS.inputs = document.querySelectorAll('[data-search-js-input]');
 	if(searchJS.inputs){
 		for(var i = 0; i < searchJS.inputs.length; i++){
