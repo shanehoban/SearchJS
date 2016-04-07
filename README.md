@@ -1,6 +1,8 @@
 # SearchJS - Quick JavaScript Filtering
 Search and filter your elements with around 750 bytes of JavaScript - without any framework. This is pure JavaScript.
 
+[Demo Link Coming Soon&trade;](#)
+
 ![demo](/resources/demo.gif)
 
 > These are fake names (I hope)
