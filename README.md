@@ -1,5 +1,5 @@
 # SearchJS - Quick JavaScript Filtering
-Dynamically bound search with around 750 bytes of JavaScript - without any framework. This is pure JavaScript.
+Search and filter your elements with around 750 bytes of JavaScript - without any framework. This is pure JavaScript.
 
 ![demo](/resources/demo.gif)
 
