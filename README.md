@@ -27,6 +27,6 @@ Then, create a container (`div`, `span`, `...whatever`) with the custom attribut
 
 > You can absolutely reference more lists to one input, no problem. My guess is referencing more than one input to one list would be ugly
 
-Finally, for each element you want to filter, create a custom attribute `data-search-js-value` with the value that the container is going to have.
+Finally, for each element you want to filter, create a custom attribute `data-search-js-value`, typically it would have the same value that the element is going to contain - so it can be searchable. E.g. `<div data-search-js-value="Rae Awad">Rae Awad </div>`
 
 > Yes you can set these attributes to any value you want, e.g. codes that you and your secret party only know how to reference
