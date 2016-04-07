@@ -3,6 +3,8 @@ Search and filter your elements with around 750 bytes of JavaScript - without an
 
 ![demo](/resources/demo.gif)
 
+> These are fake names (I hope)
+
 ## Easy to Implement
 
 Simply include `searchjs.js` in your page, and set up like below:
