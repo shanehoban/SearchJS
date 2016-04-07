@@ -1,4 +1,4 @@
-# SearchJS
+# SearchJS - Quick JavaScript Filtering
 Dynamically bound search with around 750 bytes of JavaScript - without any framework. This is pure JavaScript.
 
 ![demo](/resources/demo.gif)
