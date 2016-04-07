@@ -29,4 +29,4 @@ Then, create a container (`div`, `span`, `...whatever`) with the custom attribut
 
 Finally, for each element you want to filter, create a custom attribute `data-search-js-value`, typically it would have the same value that the element is going to contain - so it can be searchable. E.g. `<div data-search-js-value="Rae Awad">Rae Awad </div>`
 
-> Yes you can set these attributes to any value you want, e.g. codes that you and your secret party only know how to reference
+> Yes you can set these attributes to any value you want, e.g. codes that you and your secret party only know how to reference, like this: `<div data-search-js-value="Rae Awad 500-Secret-Code">Rae Awad </div>`
